@@ -1,6 +1,6 @@
 # At-Your-Service
 Created a freelancing web application to be used for daily tasks like hostel delivery, etc. Currently, this app is used by the students in my college to earn money and also to get their work done.
-Check it out [here](http://edgistifyblogpost.herokuapp.com/) 😉
+Check it out [here](#) 😉
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
